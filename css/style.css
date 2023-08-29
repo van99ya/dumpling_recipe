@@ -1,0 +1,37 @@
+img {
+    border: 1cm;
+    width:auto;
+    height:260px;
+}
+#bowl {   
+    width:auto;
+    height: 600px;
+}
+body {
+    background-color: #ffe5c4;
+}
+h2 {
+    color: brown;
+}
+h3 {
+    color: red;
+
+}
+h4 {
+    color: blue;
+}
+
+.magic
+li {
+    background-color: blueviolet;
+    color: yellowgreen;
+}
+div
+{
+    text-align: center;
+    background-color: aquamarine;
+    color: darkmagenta;
+}
+div.tab {
+    background-color: lightskyblue;
+}
